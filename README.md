@@ -26,7 +26,7 @@ npm run dev
  npm install and npm run dev
 
  # Screenshot
- ![alt text](<Screenshot from 2026-02-05 07-14-12.png>)
+![alt text](<Screenshot from 2026-02-09 01-04-34.png>)
 
  # License
  this project is for learning purposes
